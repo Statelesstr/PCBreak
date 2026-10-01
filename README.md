@@ -4,9 +4,9 @@
 
 PCBreak; çocukların bilgisayar kullanım sürelerini, zorunlu molalarını ve haftalık kullanım saatlerini yönetmek için geliştirilmiş bir Windows uygulamasıdır.
 
-<p align="center">
+[<p align="center">
   <img src="./PCBreak-Poster.png" alt="PCBreak" width="900">
-</p>
+</p>](https://github.com/Statelesstr/PCBreak/blob/main/PCBreak_%20Daha%20Dengeli%20Ekran%20S%C3%BCresi.png)
 
 ### PCBreak V2
 
